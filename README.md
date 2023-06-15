@@ -16,5 +16,8 @@ Contains part of the code used for System Identification/Parameter Estimation wo
 ## Pyramid
 Contains example code written to explain the simple foundations based on which the complex visualisation techniques were proposed in the thesis.
 
+## XFLR5importdata
+Contains part of the code written to allow for integration between XFLR5 airfoil analysis outputs and MATLAB/Simulink simulations. 
+
 ## StallModelling
 Contains parts of the code written to improve the stall modelling characterisitcs of the MATLAB/Simulink simulation. The functions provided allow for rapidly customising the stall modelling of the simulation based on any airfoil data.
